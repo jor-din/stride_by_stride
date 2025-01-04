@@ -1,0 +1,21 @@
+"Run ID","Survey Identifier","Survey Timestamp",Date,"Surface Type",Distance,Duration,Pace,"Run Type","Resting Heart Rate","Average Heart Rate","Max Heart Rate","Heart Rate Zone","Active Calories","Total Calories","Perceived Exertion (1-10 scale)","Elevation Gain",Cadence,Temperature,Humidity,Wind,Precipitation,"Time of Day",Notes,Complete?
+1,,,"2024-09-16 18:54",Treadmill,1.31,00:20:39,15:50,Hill,95,162,190,4,137,167,7,0,127,72,51,0,0,Evening,,Complete
+2,,,"2024-09-18 18:48",Treadmill,1.25,00:20:51,16:38,Hill,80,169,181,5,138,168,7,0,118,69,76,0,0,Evening,,Complete
+3,,,"2024-09-23 17:19",Treadmill,1.41,00:20:29,14:45,Intervals,90,167,188,4,145,175,7,0,125,63,69,0,0,Evening,,Complete
+4,,,"2024-09-25 20:57",Treadmill,1.21,00:20:31,16:55,Hill,90,159,188,4,135,165,7,0,115,61,83,0,0,Evening,,Complete
+5,,"2024-12-29 13:09:11","2024-10-02 18:09",Treadmill,1.33,00:20:55,15:43,Intervals,98,165,185,4,148,178,8,0,107,61,71,0,0,Evening,,Complete
+6,,"2024-12-29 13:18:32","2024-10-05 17:13",Treadmill,1.16,00:19:03,16:25,Hill,100,168,188,4,139,166,7,0,116,69,50,0,0,Evening,,Complete
+7,,"2024-12-29 13:23:12","2024-10-07 19:41",Treadmill,1.42,00:20:46,14:33,Intervals,90,172,193,5,164,194,8,0,123,59,92,0,0,Evening,,Complete
+8,,"2024-12-29 13:26:14","2024-10-09 18:12",Treadmill,1.51,00:20:50,13:44,Intervals,95,166,188,4,174,204,9,0,128,57,53,0,0,Evening,,Complete
+9,,"2024-12-29 13:30:09","2024-10-14 18:33",Treadmill,1.37,00:20:48,15:06,Intervals,90,163,184,4,159,189,7,0,118,53,86,0,0,Evening,,Complete
+10,,"2024-12-29 16:35:56","2024-10-21 18:44",Treadmill,1.29,00:20:11,15:37,Intervals,90,165,181,4,142,171,7,0,111,68,57,0,0,Evening,,Complete
+11,,"2024-12-29 16:39:03","2024-11-02 16:36",Treadmill,1.17,00:20:38,17:31,Hill,90,164,185,5,142,172,7,0,109,54,55,0,0,Evening,,Complete
+12,,"2024-12-29 16:41:23","2024-11-04 16:39",Treadmill,1.13,00:20:40,18:11,Hill,95,164,188,4,137,167,9,0,104,46,80,0,0,Evening,,Complete
+13,,"2024-12-29 16:43:44","2024-11-12 18:23",Treadmill,1.44,00:20:54,14:28,Intervals,96,165,184,4,160,190,7,0,127,41,54,0,0,Evening,,Complete
+14,,"2024-12-29 16:46:57","2024-11-24 17:29",Treadmill,1.48,00:20:53,14:06,Intervals,,,,,,,,,,,,,,,"Did not wear watch",Complete
+15,,"2024-12-29 16:52:33","2024-12-08 19:02",Treadmill,2.38,00:32:49,13:47,Intervals,85,162,180,5,222,257,10,0,122,,,,,Evening,"App and watch disconnected, some information missing",Complete
+16,,"2024-12-29 16:55:44","2024-12-09 19:27",Treadmill,1.24,00:20:41,15:34,Hill,107,167,190,5,135,165,7,0,111,43,92,0,0,Evening,,Complete
+17,,"2024-12-29 17:02:55","2024-12-16 20:00",Treadmill,1.28,00:20:07,15:39,Intervals,90,168,182,4,141,171,7,0,117,40,88,0,0,Evening,,Complete
+18,,,"2024-12-20 19:50",Treadmill,2.86,00:45:23,15:51,Intervals,98,165,182,4,327,393,7,0,121,32,90,0,0,Evening,,Complete
+19,,,"2024-12-23 17:57",Treadmill,2.16,00:30:53,14:18,Intervals,101,165,185,4,239,284,7,0,128,20,69,0,0,Evening,,Complete
+20,,,"2024-12-24 17:09",Treadmill,0.79,00:10:39,13:25,Intervals,98,154,171,3,82,97,6,0,138,28,81,0,0,Evening,,Complete
