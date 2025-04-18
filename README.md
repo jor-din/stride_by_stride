@@ -1,4 +1,4 @@
-# 🏃‍♀️ Half Marathon Training Data Analysis
+# 🏃‍♀️ Apple Running Training Data Analysis
 
 This project analyzes **weekly training trends** in preparation for a half marathon using a CSV export from a personal running tracker. It visualizes key metrics such as **weekly mileage**, **average pace**, and **cadence trends** over time.
 
