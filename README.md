@@ -27,17 +27,22 @@ This project analyzes **weekly training trends** in preparation for a half marat
 ### 📅 Weekly Mileage
 Grouped run data by week to compute total distance covered per week and visualize progress.
 
-![Weekly Mileage Plot](#)
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/3532a231-53e9-4102-81ec-816e2f4b2925" />
+
 
 ---
 
 ### ⏱️ Weekly Average Pace
 Converted pace from `mm:ss` to total seconds to compute weekly average pace and plotted the pace trend over time.
 
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/b4a0fcfb-9057-413c-9aef-9c4e89cb07c0" />
+
 ---
 
 ### 👣 Weekly Average Cadence
 Analyzed cadence data to show trends in steps per minute, an indicator of running form and performance.
+
+<img width="717" alt="image" src="https://github.com/user-attachments/assets/efb3ca08-7d9e-4cf8-91fb-41703de4e1c4" />
 
 ---
 
@@ -62,10 +67,4 @@ Analyzed cadence data to show trends in steps per minute, an indicator of runnin
 - Add more metrics such as **heart rate**, **elevation**, or **run type (easy/tempo/long)** if available
 - Integrate with **Strava API** or **Nike Run Club** for automatic data pulls
 - Build an interactive dashboard using **Plotly** or **Streamlit**
-
----
-
-## 📄 License
-
-This project is intended for personal data analysis and learning purposes. Feel free to adapt the code for your own running data!
 
